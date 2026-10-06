@@ -56,19 +56,11 @@ The project includes:
 - **Power BI Dashboard** – Interactive business intelligence reporting
 - **Dashboard Screenshot** – Preview of the final dashboard
 
-##  Learning Outcomes
+##  Repository Overview
 
-Through these practicals, I gained hands-on experience in:
+This repository contains the practical work completed as part of the Data Engineering course. It covers data ingestion, data cleaning, transformation, database operations, ETL pipelines, data warehousing, workflow orchestration, and business intelligence using various data engineering tools and technologies.
 
-- Data ingestion and preprocessing
-- Data cleaning and transformation
-- Database operations
-- ETL pipeline development
-- Data warehouse concepts
-- Dimensional modeling
-- Workflow orchestration
-- Data analysis and visualization
-- Business intelligence reporting
+The repository includes practical implementations, datasets, notebooks, dashboards, and the complete practical journal.
 
 ##  Author
 
